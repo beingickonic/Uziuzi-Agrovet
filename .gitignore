@@ -1,0 +1,8 @@
+# Standard PHP/XAMPP gitignore
+/tmp/
+/.gemini/
+/node_modules/
+.DS_Store
+Thumbs.db
+*.log
+config.local.php
